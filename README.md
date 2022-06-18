@@ -1,3 +1,9 @@
 # Project Wallet App
 
-Project Wallet App developed with React Redux on 01/19/2022.
+Project Wallet App developed on 01/19/2022.
+
+## Technologies
+
+- Javascript
+- React
+- Redux
